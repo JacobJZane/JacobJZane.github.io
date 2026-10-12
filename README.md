@@ -48,6 +48,3 @@ I am studying Emergency Management, with an interest in how Geographic Informati
 ## Where this is going
 
 As I continue developing my GIS skills, I plan to add additional maps that focus on emergency management, natural disasters, and public safety. I am particularly interested in how GIS can help emergency management agencies assess risks, identify vulnerable communities, and allocate resources during emergencies. By the end of the semester, I want this portfolio to demonstrate my ability to create maps that are not only visually understandable but also useful for interpreting geographic data and supporting decisions in emergency management.
-## Where this is going
-
-As I continue developing my GIS skills, I plan to add additional maps that focus on emergency management, natural disasters, and public safety. I am particularly interested in how GIS can help emergency management agencies assess risks, identify vulnerable communities, and allocate resources during emergencies. By the end of the semester, I want this portfolio to demonstrate my ability to create maps that are not only visually understandable but also useful for interpreting geographic data and supporting decisions in emergency management.
