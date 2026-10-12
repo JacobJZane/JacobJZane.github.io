@@ -1,6 +1,6 @@
 # Jacob Zane
 
-I am studying Emergency Management and Homeland Security, with an interest in how Geographic Information Systems (GIS) can support public safety and emergency response. I want to use GIS to better understand how emergencies affect communities and how geographic data can help agencies make informed decisions during disasters and other emergencies.
+I am studying Emergency Management, with an interest in how Geographic Information Systems (GIS) can support public safety and emergency response. I want to use GIS to better understand how emergencies affect communities and how geographic data can help agencies make informed decisions during disasters and other emergencies.
 
 ---
 
